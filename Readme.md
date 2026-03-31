@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Асылбек Калжанов](https://up.htmlacademy.ru/htmlcss-individual/3/user/2442735).
-* Наставник: `Неизвестно`.
+* Наставник: [Андрей Грачев](https://github.com/andreysgra) .
 
 ---
 
